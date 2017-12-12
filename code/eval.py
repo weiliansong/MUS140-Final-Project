@@ -16,3 +16,4 @@ def process_folder(folder):
 
 process_folder('./raw/medium/')
 process_folder('./raw/large/')
+process_folder('./raw/small/')
